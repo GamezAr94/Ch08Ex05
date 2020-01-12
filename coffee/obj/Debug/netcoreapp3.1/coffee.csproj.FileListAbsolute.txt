@@ -1,0 +1,11 @@
+C:\Users\Arturo\Desktop\C-Sharp programming book\coffee\obj\Debug\netcoreapp3.1\coffee.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\C-Sharp programming book\coffee\obj\Debug\netcoreapp3.1\coffee.AssemblyInfoInputs.cache
+C:\Users\Arturo\Desktop\C-Sharp programming book\coffee\obj\Debug\netcoreapp3.1\coffee.AssemblyInfo.cs
+C:\Users\Arturo\Desktop\C-Sharp programming book\coffee\bin\Debug\netcoreapp3.1\coffee.exe
+C:\Users\Arturo\Desktop\C-Sharp programming book\coffee\bin\Debug\netcoreapp3.1\coffee.deps.json
+C:\Users\Arturo\Desktop\C-Sharp programming book\coffee\bin\Debug\netcoreapp3.1\coffee.runtimeconfig.json
+C:\Users\Arturo\Desktop\C-Sharp programming book\coffee\bin\Debug\netcoreapp3.1\coffee.runtimeconfig.dev.json
+C:\Users\Arturo\Desktop\C-Sharp programming book\coffee\bin\Debug\netcoreapp3.1\coffee.dll
+C:\Users\Arturo\Desktop\C-Sharp programming book\coffee\bin\Debug\netcoreapp3.1\coffee.pdb
+C:\Users\Arturo\Desktop\C-Sharp programming book\coffee\obj\Debug\netcoreapp3.1\coffee.dll
+C:\Users\Arturo\Desktop\C-Sharp programming book\coffee\obj\Debug\netcoreapp3.1\coffee.pdb
